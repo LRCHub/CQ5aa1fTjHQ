@@ -1,0 +1,68 @@
+# Kis-My-Ft2 – SHE! HER! HER!
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+She! Her! Her! She! Her! Her! She! Her! Her!
+She! Her! Her! She! Her! Her! She! Her! Her!
+(Kissをしよう) 世界が変わる Kiss Kiss Kiss
+(駆け抜ける) そのくちびるの Flavor of Love
+(果てしない) Sweet Love (Your World)
+恋が舞い上がってく
+Kiss you! Kiss me! Yeah Yeah Yeah! Kiss you!
+I Don't Care 世界中を 敵に回すほどの
+甘く (濡れた) 熱い (刺激) Kissに抱かれていたい
+I for You そういつだって 全てを君にあげる
+君の (戸惑う) 心 (カラダ) ハダカにしてみせる
+(Wow Wow Wow) 恋が漏らした (Wow Wow Wow)
+ため息全て
+(Wow Wow Wow) 吐息に変える (Wow Wow Wow)
+She! Her! Her! She! Her! Her! She! Her! Her!
+She! Her! Her! She! Her! Her! She! Her! Her!
+(Kissをしよう) 世界が変わる Kiss Kiss Kiss
+(駆け抜ける) そのくちびるの Flavor of Love
+(果てしない) Sweet Love (Your World)
+恋が舞い上がってく
+(放さない) もう止まらない Kiss Kiss Kiss
+(離れない) 重なりあうよ For Your Love
+(熱くなる) My Love (Your Love)
+愛が燃え上がってく
+Kiss you! Yeah Yeah Yeah!
+Don't Look Back 戻れやしない 君の中染み込んだ
+淡い (恋の) 鼓動 (唯一) この世が持つ真実
+(Wow Wow Wow) 恋が降らせた (Wow Wow Wow)
+涙の雨も
+(Wow Wow Wow) 飲み干したなら (Wow Wow Wow)
+She! Her! Her! She! Her! Her! She! Her! Her!
+(Kissをしよう) 君の全てに Kiss Kiss Kiss
+(響きあう) 胸の奥まで Sound of Love
+(果てしない) Sweet Love (Your World)
+恋が舞い上がってく
+(いつだって) 始まりはそう Kiss Kiss Kiss
+(変わらない) いつの時代も For Your Love
+(君となら) With You (With Me) 恋に堕ちて行ける
+Kiss you!
+Yeah, Baby Girl Let Me Try 解き放ってほら
+Yes, Your Mind
+That's Right もう迷わないで Just Like a
+まるで愛は
+Male Female の永遠の Flight Don't Be Afraid
+いつでも Be Alright 世界中 Do It
+止まんない Kiss
+She! Her! Her! She! Her! Her! She! Her! Her!
+She! Her! Her! She! Her! Her! She! Her! Her!
+She! Her! Her! She! Her! Her! She! Her! Her!
+She! Her! Her! She! Her! Her! She! Her! Her!
+(Kissをしよう) 世界が変わる Kiss Kiss Kiss
+(駆け抜ける) そのくちびるの Flavor of Love
+(果てしない) Sweet Love (Your World)
+恋が舞い上がってく
+(放さない) もう止まらない Kiss Kiss Kiss
+(離れない) 重なりあうよ For Your Love
+(熱くなる) My Love (Your Love)
+愛が燃え上がってく
+(いつだって) 始まりはそう Kiss Kiss Kiss
+(変わらない) いつの時代も For Your Love
+(君となら) With You (With Me) 恋に堕ちて行ける
+Kiss you! Kiss me! Yeah Yeah Yeah! Kiss you!
+```
