@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "SHE! HER! HER!",
+  "base_artist": "Kis-My-Ft2",
+  "createdAt": "2025-12-28T04:19:53.655714Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "She Her Her Hers / Temporary",
+      "artist": "FLAKE_SOUNDS",
+      "has_synced": false,
+      "path": "select/01_She_Her_Her_Hers___Temporary_FLAKE_SOUNDS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHE! HER! HER!",
+      "artist": "Kis-My-Ft2",
+      "has_synced": false,
+      "path": "select/pl_01_SHE!_HER!_HER!_Kis-My-Ft2.txt"
+    }
+  ]
+}
